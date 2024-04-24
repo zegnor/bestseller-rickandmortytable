@@ -17,6 +17,6 @@ look like that).
 - No typescript usage (wasn't in the challenge)  
 - No coach splitting memorization lazyloading 
 - useffect could be replaced with various other things
-- was hard to see my problem-solving and debugging skills, rest.api apollo could solve that
+- was hard to see my problem-solving and debugging skills, REST could solve that
 - commenting, structure, ux was good
 - missed making the episode list of the challenge due to time constrains (name, season and episode)

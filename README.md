@@ -19,4 +19,4 @@ look like that).
 - useffect could be replaced with various other things
 - was hard to see my problem-solving and debugging skills, REST could solve that
 - commenting, structure, ux was good
-- missed making the episode list of the challenge due to time constrains (name, season and episode)
+- missed making the episode list of the challenge due to time constraints (name, season and episode)
